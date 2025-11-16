@@ -1,7 +1,7 @@
-# TinCAN-RP2040-CAN-Simulator
+# TinCAN-CAN-Simulator
 
 ### What does "TinCAN" do?
-  This project allows you to boot modules from modern vehicles such as the SYNC 3 and SYNC 4 modules on a "bench". This is done by simulating the canbus network of the vehicle using an inexpensive($20-30) RP2040 Canbus Board.
+  This project allows you to boot modules from modern vehicles such as the SYNC 3 and SYNC 4 modules on a "bench". This is done by simulating the canbus network of the vehicle using an inexpensive($20-30) RP2040 Canbus Board or ESP32 Board
 
 ### What's the point?
   At the time there is no existing project to power/boot SYNC 4 models and/or newer(2020+) modules. There also isn't a compact user friendly option to do so.
